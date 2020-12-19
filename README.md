@@ -1,9 +1,7 @@
-# webgpu demo
-项目已中止
+# webGPU demo
+本项目用于学习webGPU
+ps:项目已中止
 
 ## 原因
-1. Chrome 正式版不支持webGPU，Chrome Carry才支持webGPU
-2. Chrome Carry中demo会报错
-
-## 结论
-1. 等Chrome正式版支持webGPU
+1. Chrome 正式版不支持 webGPU，Chrome Carry 版才支持webGPU
+2. Chrome Carry 版中 demo 会报错
